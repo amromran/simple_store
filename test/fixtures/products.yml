@@ -9,3 +9,8 @@ two:
   title: MyString
   description: MyText
   price: 9.99
+
+genericstore:
+  title: Eins
+  description: Cool description
+  price: 37.99
