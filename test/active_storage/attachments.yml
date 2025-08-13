@@ -11,3 +11,8 @@ genericstore:
  name: image
  record: genericstore (Product)
  blob: blob_genericstore
+
+ logo_attachment:
+   name: image
+   record: some_product_fixture_name (Product)
+   blob: blob_logo
