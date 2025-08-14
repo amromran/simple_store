@@ -5,24 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1539da49-f195-4ac4-9eb4-bc301430c0e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/assets/images/logo.jpg:Zone.Identifier" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/images/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/images/logo.jpg:Zone.Identifier" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/fixtures/files/drei.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/fixtures/files/drei.jpg:Zone.Identifier" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/fixtures/files/eins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/fixtures/files/eins.jpg:Zone.Identifier" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/fixtures/files/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/fixtures/files/logo.jpg:Zone.Identifier" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/fixtures/files/zwei.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/fixtures/files/zwei.jpg:Zone.Identifier" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/agile.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/agile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/concerns/current_cart.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/models/product.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/product.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/store/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/store/index.html.erb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/active_storage/attachments.yml" beforeDir="false" afterPath="$PROJECT_DIR$/test/active_storage/attachments.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/active_storage/blobs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/test/active_storage/blobs.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/controllers/products_controller_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/controllers/products_controller_test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/fixtures/products.yml" beforeDir="false" afterPath="$PROJECT_DIR$/test/fixtures/products.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +35,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "com.intellij.lang.ruby.rbs.tools.collection.workspace.sync.RbsCollectionUpdateProjectActivity#LAST_UPDATE_TIMESTAMP": "1755109654193",
+    "com.intellij.lang.ruby.rbs.tools.collection.workspace.sync.RbsCollectionUpdateProjectActivity#LAST_UPDATE_TIMESTAMP": "1755151020853",
     "git-widget-placeholder": "test-branch",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
@@ -148,6 +138,8 @@
       <updated>1754840182509</updated>
       <workItem from="1754840189186" duration="6020000" />
       <workItem from="1755109596186" duration="357000" />
+      <workItem from="1755110265017" duration="10631000" />
+      <workItem from="1755150956895" duration="850000" />
     </task>
     <servers />
   </component>
