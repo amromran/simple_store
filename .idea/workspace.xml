@@ -5,20 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1539da49-f195-4ac4-9eb4-bc301430c0e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/views/orders/_cc.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/orders/_check.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/orders/_po.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/line_items/_line_item.text.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pago.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/tailwind/application.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/tailwind/application.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/line_items_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/line_items_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/line_item.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/line_item.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/carts/_cart.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/carts/_cart.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/fixtures/line_items.yml" beforeDir="false" afterPath="$PROJECT_DIR$/test/fixtures/line_items.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/system/carts_test.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/system/line_items_test.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/system/products_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/orders_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/orders_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/order.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/order.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/line_items/_line_item.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/line_items/_line_item.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/store/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/store/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/environment.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/environment.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/system/orders_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/system/orders_test.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +145,7 @@
       <workItem from="1755110265017" duration="10631000" />
       <workItem from="1755150956895" duration="3116000" />
       <workItem from="1755193891193" duration="7900000" />
-      <workItem from="1755277891165" duration="11151000" />
+      <workItem from="1755277891165" duration="14670000" />
     </task>
     <servers />
   </component>
