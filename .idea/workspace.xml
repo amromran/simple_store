@@ -44,7 +44,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "com.intellij.lang.ruby.rbs.tools.collection.workspace.sync.RbsCollectionUpdateProjectActivity#LAST_UPDATE_TIMESTAMP": "1755277949475",
+    "com.intellij.lang.ruby.rbs.tools.collection.workspace.sync.RbsCollectionUpdateProjectActivity#LAST_UPDATE_TIMESTAMP": "1755366707868",
     "git-widget-placeholder": "test-branch",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
@@ -151,6 +151,7 @@
       <workItem from="1755150956895" duration="3116000" />
       <workItem from="1755193891193" duration="7900000" />
       <workItem from="1755277891165" duration="17813000" />
+      <workItem from="1755366645065" duration="2233000" />
     </task>
     <servers />
   </component>
