@@ -11,3 +11,16 @@ two:
   address: MyText
   email: MyString
   pay_type: 1
+
+another_one:
+  name: Amr
+  address: 123 Cairo
+  email: amr@example.org
+  pay_type: Check
+  created_at: <%= 2.days.ago %>
+
+other_customer:
+  name: Guy
+  address: 456 Somewhere
+  email: guy@nowhere.net
+  pay_type: Check
