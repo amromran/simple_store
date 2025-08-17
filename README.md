@@ -14,7 +14,7 @@ Simple store app made mainly by following Agile Web Development with Rails 7 to 
 ---
 ## Screenshots
 
-![Home Page](docs/screenshots/home.png)
+![Home Page](screenshots/The Online Store.png)
 
 ## Features
 
@@ -29,7 +29,7 @@ Simple store app made mainly by following Agile Web Development with Rails 7 to 
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/depot.git
+git clone https://github.com/amromran/simple_store.git
 cd depot
 ```
 
