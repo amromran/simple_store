@@ -1,24 +1,48 @@
-# README
+# Store App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Simple store app made mainly by following Agile Web Development with Rails 7 to an extent
 
-Things you may want to cover:
+## Tech Stack
 
-* Ruby version
+- **Ruby**: 3.3.8
+- **Rails**: 8.0
+- **Sqlite3**
+- **PostgreSQL** *for production*
+- **TailwindCSS**
+- **WSL2** with Ubuntu as development environment
 
-* System dependencies
+---
+## Screenshots
 
-* Configuration
+![Home Page](docs/screenshots/home.png)
 
-* Database creation
+## Features
 
-* Database initialization
+- Product listing and details
+- Shopping cart functionality
+- Checkout process
+- Basic admin panel for managing products
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+###  Local Setup
 
-* Deployment instructions
+Clone the repository:
 
-* ...
+```bash
+git clone https://github.com/yourusername/depot.git
+cd depot
+```
+
+### Deployment
+
+Deployed locally with Docker
+
+
+---
+
+### References
+
+```markdown
+- [Agile Web Development with Rails 7]
+- [Ruby on Rails Guides](https://guides.rubyonrails.org/)
+```
