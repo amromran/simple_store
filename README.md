@@ -14,7 +14,7 @@ Simple store app made mainly by following Agile Web Development with Rails 7 to 
 ---
 ## Screenshots
 
-![Home Page](screenshots/The Online Store.png)
+![Home Page](screenshots/TheOnlineStore.png)
 
 ## Features
 
